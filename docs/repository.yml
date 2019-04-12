@@ -3,7 +3,7 @@ name: AWS S3 Static Website
 slug: s3-website
 project: infraprints
 namespace: [terraform, aws]
-description: Describes a container auto-scaling policy controlled by a SQS resource.
+description: Provision a static website stored in S3 and served by Cloudfront.
 license:
   name: MIT
 tags:
