@@ -1,0 +1,15 @@
+---
+name: AWS S3 Static Website
+slug: s3-website
+project: infraprints
+namespace: [terraform, aws]
+description: Provision a static website stored in S3 and served by Cloudfront.
+license:
+  name: MIT
+tags:
+  - terraform
+  - terraform-module
+  - aws
+  - aws-s3
+  - aws-route53
+  - aws-cloudfront
